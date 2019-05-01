@@ -65,3 +65,9 @@ vehicles_db/
 进入 `vehicles_db` 文件夹，运行 `main.py` 文件即可。
 
 输出数据位于 `/data/output` 文件夹中。
+
+### 输出
+
+部分输出如图所示：
+
+![](assets/输出.png)
